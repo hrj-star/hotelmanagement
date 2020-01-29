@@ -1,7 +1,7 @@
 Hotel Management Software
 ===============
 
-This web application is developed with MySQL, PHP, Codeigniter, jQuery
+This web application is developed with MySQL, PHP, Codeigniter, jQuery.
 
 ![ScreenShot](https://raw.githubusercontent.com/tugbadogan/hotelmanagement/master/screenshots/8.png)
 
